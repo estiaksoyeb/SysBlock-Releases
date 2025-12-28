@@ -1,7 +1,7 @@
 {
-     "versionCode": 1,
-     "versionName": "1.0.0",
-     "apkUrl": "https://example.com/app-v1soyeb.0.4.apk",
-     "changelog": "Bug fixes and UI improvements",
+     "versionCode": 2,
+     "versionName": "1.0.1",
+     "apkUrl": "https://github.com/estiaksoyeb/SysBlock-Releases/releases/download/1.0.1/SysBlock-1.0.1.apk",
+     "changelog": "Bug fix and new features",
      "forceUpdate": false
    }
