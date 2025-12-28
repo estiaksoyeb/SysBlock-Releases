@@ -17,7 +17,7 @@ SysBlock is a powerful, self-imposed digital wellbeing tool for Android designed
 1.  Download the latest APK from the [Releases](https://github.com/estiaksoyeb/SysBlock-Releases/releases) page.
 
 <p align="left">
-        <a href="https://github.com/estiaksoyeb/SysBlock-Releases/releases/download/1.0.0/SysBlock-1.0.1.apk">
+        <a href="https://github.com/estiaksoyeb/SysBlock-Releases/releases/download/1.0.1/SysBlock-1.0.1.apk">
             <img src="https://img.shields.io/badge/Download-SysBlock%20APK-green?style=for-the-badge&logo=android" alt="Download SysBlock">
         </a>
 </p>
