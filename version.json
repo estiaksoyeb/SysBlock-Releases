@@ -1,7 +1,7 @@
 {
   "versionCode": 3,
   "versionName": "2.0.0",
-  "apkUrl": "https://github.com/estiaksoyeb/SysBlock-Releases/releases/download/1.0.1/SysBlock-2.0.0.apk",
+  "apkUrl": "https://github.com/estiaksoyeb/SysBlock-Releases/releases/download/2.0.0/SysBlock-2.0.0.apk",
   "changelog": "🚀 SysBlock v2.0.0 — The UI & Stability Update\n\nSysBlock v2.0.0 brings a complete visual overhaul, significant stability improvements, and a smarter configuration experience.\n\n✨ Key Features\n\n• Material Motion & UI Overhaul\nFluid transitions with Shared Axis animations, new Welcome Screen, and About Screen.\n\n• Hardened Freeze Protocol\nImproved validation and case-insensitive rule matching.\n\n• Smart App Selection\nUI now stays perfectly in sync with CONFIG.SYS.\n\n• Robust Config Editor\nImproved stability and performance.\n\n📦 Notes\n\n• Version bump to v2.0.0\n• UI polishing and layout fixes\n\nMajor version update. Built for users who want strict digital control.",
   "forceUpdate": false
 }
