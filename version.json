@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "3.0.0",
-  "apkUrl": "https://github.com/estiaksoyeb/SysBlock-Releases/releases/download/3.0.0/SysBlock-3.0.0.apk",
-  "changelog": "🚀 SysBlock v3.0.0 — The Scheduling & Precision Update\n\nSysBlock v3.0.0 brings highly requested scheduling flexibility, hardened background enforcement, and a dedicated interface for device rules.\n\n✨ Key Features\n\n• Multi-Schedule Architecture\nDefine multiple named schedules and apply them to specific apps for granular control.\n\n• Stabilized Core Service\nReinforced with foreground enforcement and OEM-specific safeguards (including Xiaomi optimizations).\n\n• Dedicated Schedules & Freeze UI\nNew centralized screens to manage time-based restrictions easily.\n\n• Refined App Intelligence\nSelection interface now displays human-readable app names.\n\n• Expanded Iconography\nIntegrated Material Icons Extended for a professional look.\n\n📦 Notes\n\n• Architectural shift to flexible scheduling.\n• Significant core engine updates.\n\nA major leap in flexibility for surgical digital discipline.",
+  "versionCode": 6,
+  "versionName": "3.2.0",
+  "apkUrl": "https://github.com/estiaksoyeb/SysBlock-Releases/releases/download/3.2.0/SysBlock-3.2.0.apk",
+  "changelog": "🚀 SysBlock v3.2.0 — Advanced Config & UI Refinement\n\n✨ Key Features\n\n• Advanced Configuration via CONFIG.SYS\nCustomize Gap Tolerance, Master Switch Pause duration, Penalty Strikes, Scroll Eject Delay, and Blocking Wait Time.\n\n• Uninstalled App Handling\nManage rules for uninstalled apps (now hidden from Home Screen).\n\n• UI Improvements\n12-hour (AM/PM) format for Schedules.\n\n📦 Internal\n• Updated documentation and validation logic.",
   "forceUpdate": false
 }
