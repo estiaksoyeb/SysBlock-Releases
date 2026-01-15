@@ -1,7 +1,7 @@
 {
   "versionCode": 6,
   "versionName": "3.2.0",
-  "apkUrl": "https://github.com/estiaksoyeb/SysBlock-Releases/releases/download/3.2.0/SysBlock-3.2.0.apk",
+  "apkUrl": "https://github.com/estiaksoyeb/SysBlock-Releases/releases/tag/v3.2.0",
   "changelog": "🚀 SysBlock v3.2.0 — Advanced Config & UI Refinement\n\n✨ Key Features\n\n• Advanced Configuration via CONFIG.SYS\nCustomize Gap Tolerance, Master Switch Pause duration, Penalty Strikes, Scroll Eject Delay, and Blocking Wait Time.\n\n• Uninstalled App Handling\nManage rules for uninstalled apps (now hidden from Home Screen).\n\n• UI Improvements\n12-hour (AM/PM) format for Schedules.\n\n📦 Internal\n• Updated documentation and validation logic.",
   "forceUpdate": false
 }
