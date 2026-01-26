@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "4.2.0",
-  "apkUrl": "https://github.com/estiaksoyeb/SysBlock-Releases/releases/download/4.2.0/SysBlock-4.2.0.apk",
+  "versionCode": 10,
+  "versionName": "4.2.1",
+  "apkUrl": "https://github.com/estiaksoyeb/SysBlock-Releases/releases/download/v4.2.1/SysBlock-v4.2.1.apk",
   "changelog": "🚀 SysBlock v4.2.0 — Feature Pack (Focus, Sleep, Tools)\n\n✨ New Features\n\n• Focus Mode\nAdded \"DEEP WORK\" mode. Activates a high-priority block during specific schedules, allowing only a strict whitelist of apps (e.g., Tools) defined in a Package Set.\n\n• Sleep Mode Enhancements\n- Exemptions: You can now allow specific apps (like Alarms or Meditation apps) during Sleep Mode using \"IGNORE_SLEEP_MODE\".\n- Double Tap to Sleep: Quickly turn off the screen by double-tapping the background during Sleep or Focus modes.\n- Wrap Up: A one-time 5-minute emergency extension to finish tasks before bed.\n\n• Package Copier Tool\nNew utility to easily copy package names for your config. Includes quick buttons for \"Current Launcher\", \"Device Settings\", and \"System UI\".\n\n• Learn Config\nBuilt-in documentation screen explaining all CONFIG.SYS commands and syntax.\n\n• Package Sets\nDefine groups of apps (PKGSET) to reuse across different rules and modes.\n\n🛠 Improvements & Fixes\n\n• Material 3 UI Overhaul: Complete redesign of the app with modern Material 3 components and theming.\n• Navigation: Smoother transitions and fixed bottom bar behavior.\n• Permissions: Improved permission recovery flow with stability warnings.\n• Theme: Fixed light theme flashing issues.",
   "forceUpdate": false
 }
